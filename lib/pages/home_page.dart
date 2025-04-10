@@ -1,5 +1,5 @@
-import 'package:d5_7_2/models/todo_model.dart';
-import 'package:d5_7_2/service/network_service.dart';
+import '../models/todo_model.dart';
+import '../service/network_service.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
